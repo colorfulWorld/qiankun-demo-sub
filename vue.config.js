@@ -45,11 +45,6 @@ module.exports = {
         target: '',
         ws: false,
         changeOrigin: true
-      },
-      '/bgs': {
-        target: '',
-        ws: false,
-        changeOrigin: true
       }
     }
   }
